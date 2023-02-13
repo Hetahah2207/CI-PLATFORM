@@ -28,6 +28,11 @@ namespace CI_Platform.Controllers
             return View();
         }
 
+        public IActionResult Resetpassword()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

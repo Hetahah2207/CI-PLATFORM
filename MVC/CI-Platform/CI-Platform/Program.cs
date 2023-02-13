@@ -32,4 +32,8 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Register}/{id?}");
 
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Resetpassword}/{id?}");
+
 app.Run();

@@ -2,10 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
-/* .formmain{
+.formmain{
     margin-top: auto;
     margin-bottom: auto;
-} */
+    max-height: 100vh;
+}
 html{
     box-sizing :border-box;
 }
