@@ -16,3 +16,18 @@ html{
         width : 100%
     }
 }
+/* 
+.navimage{
+    display: inline-block; 
+    position: relative; 
+    width: 75px; 
+    height: 75px; 
+    overflow: hidden; 
+    border-radius: 50%;
+} */
+.navimg{
+    /* width: 150px; 
+    height: 100%; 
+    margin-left: -50px; */
+    border-radius: 50%;
+}
