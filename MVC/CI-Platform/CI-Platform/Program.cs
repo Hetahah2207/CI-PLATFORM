@@ -22,7 +22,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=homegrid}/{id?}");
+    pattern: "{controller=Home}/{action=login}/{id?}");
 
 
 
